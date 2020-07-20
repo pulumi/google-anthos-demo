@@ -1,0 +1,6 @@
+.idea/
+/bin/
+/node_modules/
+kubeconfig.yaml
+nomos
+package-lock.json

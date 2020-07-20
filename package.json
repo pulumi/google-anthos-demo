@@ -1,0 +1,12 @@
+{
+    "name": "google-demo",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^3.0.0",
+        "@pulumi/kubernetes": "^2.4.0",
+        "@pulumi/pulumi": "^2.0.0",
+        "@pulumi/random": "^2.2.0"
+    }
+}
